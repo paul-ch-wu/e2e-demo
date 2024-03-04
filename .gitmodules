@@ -1,0 +1,2 @@
+[submodule "game-server"]
+	url = https://github.com/cloud-latitude/game-server.git
